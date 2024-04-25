@@ -1,5 +1,8 @@
 # Sentiment-Analysis
 Sentiment Analysis Project
 ```
-طيزك حمرا
+int main () {
+  cout << "طيزك حمرا";
+  return 0;
+}
 ```
